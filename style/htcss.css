@@ -1,0 +1,92 @@
+
+
+body {
+    font-family: 'Roboto Condensed Light' ;
+    color: #3B4444;
+    background:#F6F8F9;
+}
+
+#main_content {
+    width:900px;
+    margin: auto;
+    padding:10px;    
+}
+
+.contact {
+    color:#B8BBBB;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 10px;    
+    
+}
+
+.contact span {
+    color:#949697;
+    text-decoration:none;    
+}
+
+.contact input {
+    margin-left: 500px;
+    height: 35px;
+    width: 90px;
+    border-radius: 4px;
+    font-size: 11px;
+    color: #F6F8F9;
+    box-shadow:2px 2px 1px #888888; 
+    background: linear-gradient(#888888,#5D6D6D);
+    
+}
+
+hr {
+    border-color: #B8BBBB;
+    border-style: ridge;
+    color:white;
+    width: 860px;
+    margin-right: 30px;
+}
+
+h1 {
+    font-size: 15px;
+    text-align: center;
+}
+
+
+.panel {
+    overflow:hidden;  
+}
+
+.column {
+    float:left;
+    margin:5px;
+}
+
+.column h3 {
+    font-size: 15px;
+}
+
+
+.wide {
+     width: 420px;
+    margin-left: 10px;
+    font-size: 12px;
+}
+
+.head {
+    width: 200px; 
+    text-align: center;
+    font-size: 13px;
+    margin: 10px;
+}
+
+.selectedicon {
+    color: #C9B38B;
+}
+
+
+
+
+
+
+
+
+

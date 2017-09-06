@@ -1,0 +1,19 @@
+.slider {
+    margin-left: 750px;
+}
+
+.slider input{
+    border: none;
+    margin: 5px;
+    height: 10dm;
+    width: 20dm;
+}
+
+.selectedbutton {
+    background-color: #E1E1E1;
+    border: none;
+}
+
+.notselected {
+    background-color: #B8BBBB;
+}

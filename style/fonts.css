@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Roboto Condensed Light;
+    src: url("../fonts/RobotoCondensed-Light.ttf"); 
+} 
+
+a {
+    color: #C9B38B;
+}
+ 
+a:link {    
+    text-decoration: none;
+    font-weight: bold;
+    color: #C9B38B;
+}
+
+a:hover {
+    color:#B8BBBB;
+}

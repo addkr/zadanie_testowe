@@ -1,0 +1,22 @@
+.pics {
+    width: 420px;
+    height: 140px;
+    margin: 8px;
+    font-size: 10px;  
+    background: linear-gradient(#888888,#E1E1E5;);
+    opacity: 0.6;
+}
+ 
+.pics input {
+    float: left;
+    max-height: 140px;
+    max-width: 200px;
+    min-height: 140px;
+    min-width: 200px;
+    margin-right: 15px;
+}
+
+.selectedpic {
+    
+    opacity: 1;
+}
